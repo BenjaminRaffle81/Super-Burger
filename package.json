@@ -1,24 +1,23 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "Week 14, Homework 12, Eat-Da-Burger!",
+  "description": "Step right up, get your super burger here!",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JessicaSung/burger.git"
+    "url": "https://github.com/BenjaminRaffle81/Super-Burger.git"
   },
   "keywords": [
     "express"
   ],
-  "author": "Jessica Sung",
+  "author": "Benjamin Evelyn Robert Raffle, IV",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JessicaSung/burger/issues"
+
   },
-  "homepage": "https://github.com/JessicaSung/burger#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
