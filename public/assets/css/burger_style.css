@@ -1,0 +1,17 @@
+h1 {
+	color: black;
+}
+
+h2 {
+	color: black;
+}
+
+body {
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+
+}
+
+img {
+	height: 300px;
+	width: 350px;
+}
