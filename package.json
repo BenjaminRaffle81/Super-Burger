@@ -1,9 +1,10 @@
 {
-  "name": "super burger",
+  "name": "super-burger",
   "version": "1.0.0",
   "description": "Step right up, get your super burger here!",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
